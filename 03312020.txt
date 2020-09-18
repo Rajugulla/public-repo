@@ -1,0 +1,16 @@
+verify Symphonize banner in email notification
+student has question during the course what he can do - Use case
+check how can we add instruction to start assessment
+certificate brandable
+post certificate to linkedIn
+Check how we can send message to all students
+how student will move from another group
+
+discussion forum and my queries
+ask an expert
+
+queries in mobile app
+download the certificate and upload in facebook - Downloading as PDF.
+check why it is not working in LinkedIn
+in assessment add intructions and add link that should navigate to repl.it
+
